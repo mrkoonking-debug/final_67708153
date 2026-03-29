@@ -1,0 +1,25 @@
+# Docker volumes
+mysql_data/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# System files
+Thumbs.db
+.env.local
+.env.*.local
+
+# Cache and temporary files
+*.cache
+*.tmp
+*.log
+
+# Node modules (if using frontend build tools)
+node_modules/
+package-lock.json
+yarn.lock
